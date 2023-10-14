@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #2b0935;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+.photo{
+    width:40px;
+    height:40px;
+    border-color: #131414;
+    border-width:20px;
+    border-radius:50px
+}
+.about{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.html{
+    width:40px;
+    height:30px;
+    border-radius:20px;
+}
+.css{
+    width:40px;
+    height:30px;
+    border-radius:20px;  
+}
+.c{
+    width:40px;
+    height:30px;
+    border-radius:20px;
+}
+.cpp{
+    width:40px;
+    height:30px;
+    border-radius:20px;
+}
+.edu{
+    width:20px;
+    height:20px;
+    border-radius:50px;
+    margin-top:30px ;
+    padding-left:10px;
+    text-align: left;
+}
+.school{
+    width:20px;
+    height:20px;
+    border-radius:50px;
+    margin-top:30px ;
+    padding-left: 10px;
+    text-align:left;
+}
+.bach,.vp{
+    padding-left:10px;
+}
+.cert1,.cert2,.cert3,.tra{
+    width:80px;
+    height:40px;
+    border-color:#0056b3;
+}
+
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.email,.cont{
+    width:20px;
+    height:10px;
+    border-radius:30px;
+    padding-left:10px;  
+}
+.con,.e{
+    padding-left:10px;
+    margin-top: 20px;
+
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+/* Add animations using CSS or JavaScript for more interactivity */
